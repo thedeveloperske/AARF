@@ -1,0 +1,30 @@
+#financeP {
+  color: #5bc0de;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.allocate {
+  max-height: 200px;
+  overflow: auto;
+}
+.allocatemodal {
+  max-height: 300px;
+  overflow: auto;
+}
+.quoteDetails {
+  max-height: 200px;
+  overflow: auto;
+}
+
+.addProduct {
+  margin: 10px;
+}
+input {
+  width: 100%;
+}
+
+.elems {
+  margin: 2px;
+}

@@ -1,0 +1,6 @@
+#profile:hover, #logout:hover{
+    color: blue;
+}
+#profile, #logout{
+    cursor:pointer
+}

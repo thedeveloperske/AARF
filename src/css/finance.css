@@ -1,0 +1,13 @@
+#headers {
+  color: #5bc0de;
+  font-weight: bolder;
+  font-size: 20px;
+  text-align: center;
+}
+
+#member_details {
+  display: block;
+  height: 300px;
+  width: 1000px;
+  overflow-y: auto;
+}

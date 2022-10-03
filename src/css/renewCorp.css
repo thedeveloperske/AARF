@@ -1,0 +1,13 @@
+.table td {
+  text-align: center;
+}
+
+#appended {
+  background-color: #D4E6F1;
+}
+
+#appended input,
+#appended select {
+  background-color: #D4E6F1;
+  /* border: none; */
+}
